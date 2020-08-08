@@ -1,2 +1,2 @@
-# Emp_Attendance-
-Track Emp Attendance
+# Emp_Attendance
+An Android Application to track Employee Attendance 
