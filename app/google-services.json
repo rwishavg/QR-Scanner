@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "464944963633",
+    "firebase_url": "https://employee-attendance-890e1.firebaseio.com",
+    "project_id": "employee-attendance-890e1",
+    "storage_bucket": "employee-attendance-890e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464944963633:android:c3515c8ebd6e2d337db510",
+        "android_client_info": {
+          "package_name": "com.cdac.qrcodescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464944963633-j2nv8em6qkuirrg8hkvuis9k29fkm287.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cdac.qrcodescanner",
+            "certificate_hash": "7a78ab6285b64c09756ac04f71bb1c70e4ec8b32"
+          }
+        },
+        {
+          "client_id": "464944963633-m6t8uv0neflr4a365ntsvn5rgsp1ofu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd8NFYBGFC0QLk2gj52hqP_d8yq3ZxGt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464944963633-m6t8uv0neflr4a365ntsvn5rgsp1ofu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
