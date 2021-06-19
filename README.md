@@ -1,2 +1,2 @@
-# Emp_Attendance
-An Android Application to track Employee Attendance 
+# QR Scanner
+A simple andorid application to scan QR Codes
