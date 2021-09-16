@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img align="center" src="./Media/logo.png" alt="Logo" width="120" height="90">
+    <img align="center" src="https://github.com/rwishavg/QR-Scanner/blob/master/Media/logo.jpg" alt="Logo" width="120" height="90">
     <h2 align="center">QR Scanner</h2>
     <h3 align="center">A sample project</h3>
     <h3 align="center">--------------------------</h3>
