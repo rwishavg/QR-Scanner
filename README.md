@@ -34,12 +34,9 @@ Most legacy android systems are also supported.
 
 Simply select the option to scan and use as convienent.
 
-### What it Looks Like :
-![1](./Media/logo.png)
-
 ### Demo :
 
-<img src="https://github.com/rwishavg/QR-Scanner/blob/master/Media/sample.mp4" width="200">
+<img src="https://github.com/rwishavg/QR-Scanner/blob/master/Media/sample.gif" width="200">
 
 <!-- CONTACT -->
 ## Contributors
